@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-
-
-This is my new file.
-This is ready to be merged
-=======
-My name is pritee. my first git. pritee change 4
+pritee. my first git. pritee change 4
 My Name is Aashish...Aashish change 2...Aashish3
->>>>>>> e2fbb65e70f9218866e14fafbac076dd42e56f30
