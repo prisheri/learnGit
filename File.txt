@@ -1,1 +1,2 @@
-My name is pritee. my first git
+My name is pritee. my first git.
+This is a new line intro.
