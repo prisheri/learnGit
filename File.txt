@@ -1,2 +1,2 @@
-This is now a changed file
+This is now a changed file 2
 
