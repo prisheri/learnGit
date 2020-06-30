@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 My name is pritee. my first git. Pritee change 2
 My Name is Aashish...Aashish change 2..Aashish change 3
 this is a new change intro by Aashish
-=======
-My name is pritee. my first git. pritee change 4
-My Name is Aashish...Aashish change 2
->>>>>>> ddceba57e7cce4ef7703ac1affa3cc7e2dd4bdd0
+
